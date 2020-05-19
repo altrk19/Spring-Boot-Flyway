@@ -1,0 +1,1 @@
+update users set username = 'umutcantrk' where username = 'umttrk';
